@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = manuelvermillac@gmail.com
+	name = Manuel Vermillac
